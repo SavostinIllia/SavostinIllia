@@ -23,7 +23,7 @@
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
 [<img align="left" alt="React Hooks" width="26px" src="https://raw.githubusercontent.com/alDuncanson/react-hooks-snippets/master/icon.png" />][website]
 [<img align="left" alt="styled-components" width="35px" height="35px" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />][website]
-[<img align="left" alt="Redux" width="26px" src="https://e7.pngegg.com/pngimages/413/852/png-clipart-redux-react-logo-javascript-dq-purple-violet-thumbnail.png" />][website]
+[<img align="left" alt="Redux" width="26px" src="https://img.favpng.com/6/2/11/redux-react-javascript-freecodecamp-npm-png-favpng-6F2x50visKuC0trBQ0952Cm1E_t.jpg" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
 [<img align="left" alt="RWD" width="32px" src="https://lh3.googleusercontent.com/proxy/klnWLjEoIEgvMrrgIGKHoiIRGKuMzSPqOVwnzZlg2ekjoN3vIdfK1KsOGuybwtroS7GgxRi-KvUtP_3B8eYUKNm9DX01Ykv8Ybe0vifUrigdxb7G" />][website]
