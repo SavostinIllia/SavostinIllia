@@ -20,7 +20,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="TypeScript" width="26px" src="https://malcoded.com/static/e5619b75c39bc5034c7c9ef9c8d8c42e/ba299/Typescript.png" />][website]
+[<img align="left" alt="TypeScript" width="26px" src="https://www.saashub.com/images/app/service_logos/11/ad388324edad/large.png?1531424414" />][website]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
 [<img align="left" alt="React Hooks" width="26px" src="https://raw.githubusercontent.com/alDuncanson/react-hooks-snippets/master/icon.png" />][website]
 [<img align="left" alt="styled-components" width="35px" height="35px" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />][website]
