@@ -19,13 +19,12 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Ubuntu" width="26px" src="https://e7.pngegg.com/pngimages/976/105/png-clipart-round-yellow-orange-and-red-logo-ubuntu-linux-logo-installation-computer-software-logo-material-orange-linux.png" />][website]
+[<img align="left" alt="Ubuntu" width="26px" src="https://w7.pngwing.com/pngs/829/771/png-transparent-ubuntu-logo-linux-operating-systems-linux-text-orange-logo.png" />][website]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="Adobe Photoshop CC" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" />][website]
-
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="RWD" width="26px" src="https://lh3.googleusercontent.com/proxy/klnWLjEoIEgvMrrgIGKHoiIRGKuMzSPqOVwnzZlg2ekjoN3vIdfK1KsOGuybwtroS7GgxRi-KvUtP_3B8eYUKNm9DX01Ykv8Ybe0vifUrigdxb7G" />][website]
+[<img align="left" alt="RWD" width="32px" src="https://lh3.googleusercontent.com/proxy/klnWLjEoIEgvMrrgIGKHoiIRGKuMzSPqOVwnzZlg2ekjoN3vIdfK1KsOGuybwtroS7GgxRi-KvUtP_3B8eYUKNm9DX01Ykv8Ybe0vifUrigdxb7G" />][website]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
