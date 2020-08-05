@@ -1,12 +1,11 @@
-### Hi there, I'm Savostin Illia -[website] 👋
+### Hi there, I'm Savostin Illia - [website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Web-developer, Dreamer, Nice guy!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently searching for a job !
 - 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2020 Goals: To create own application with own created meal recipes
+- ⚡ Fun fact: I love to watch TEDx Talks and I am scared of black holes 😬
 
 ### Connect with me:
 
