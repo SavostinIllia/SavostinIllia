@@ -2,7 +2,6 @@
 
 ## I'm a Web-developer, Dreamer, Nice guy!
 
-- 🔭 I’m currently searching for a job !
 - 🌱 I’m currently learning everything
 - 🥅 2020 Goals: To create own application with own created meal recipes
 - ⚡ Fun fact: I love to watch TEDx Talks and I am scared of black holes 😬
